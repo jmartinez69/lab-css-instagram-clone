@@ -35,6 +35,7 @@ h2 {
   /*margin-left: 25px;*/
   background-image: url("../images/frame.png");
   background-repeat: no-repeat;
+  background-size: cover;
   padding-left: 25px;
   margin-right: 28px;
   padding-left:  30px;
